@@ -1,0 +1,13 @@
+E:\Amnil\Stringvalid\bin\Debug\netcoreapp3.1\Stringvalid.exe
+E:\Amnil\Stringvalid\bin\Debug\netcoreapp3.1\Stringvalid.deps.json
+E:\Amnil\Stringvalid\bin\Debug\netcoreapp3.1\Stringvalid.runtimeconfig.json
+E:\Amnil\Stringvalid\bin\Debug\netcoreapp3.1\Stringvalid.runtimeconfig.dev.json
+E:\Amnil\Stringvalid\bin\Debug\netcoreapp3.1\Stringvalid.dll
+E:\Amnil\Stringvalid\bin\Debug\netcoreapp3.1\Stringvalid.pdb
+E:\Amnil\Stringvalid\obj\Debug\netcoreapp3.1\Stringvalid.csprojAssemblyReference.cache
+E:\Amnil\Stringvalid\obj\Debug\netcoreapp3.1\Stringvalid.AssemblyInfoInputs.cache
+E:\Amnil\Stringvalid\obj\Debug\netcoreapp3.1\Stringvalid.AssemblyInfo.cs
+E:\Amnil\Stringvalid\obj\Debug\netcoreapp3.1\Stringvalid.csproj.CoreCompileInputs.cache
+E:\Amnil\Stringvalid\obj\Debug\netcoreapp3.1\Stringvalid.dll
+E:\Amnil\Stringvalid\obj\Debug\netcoreapp3.1\Stringvalid.pdb
+E:\Amnil\Stringvalid\obj\Debug\netcoreapp3.1\Stringvalid.genruntimeconfig.cache
